@@ -1,6 +1,6 @@
 # leetcode_pandas
 
-Pre-requisites - Notebook needs to be installed
+Pre-requisites - jupyter Notebook needs to be installed
 
 > [1. Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
 
@@ -11,3 +11,5 @@ Pre-requisites - Notebook needs to be installed
 >   [4. Select Data](<https://leetcode.com/problems/select-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)>)
 
 >   [5. Create a New Column](https://leetcode.com/problems/create-a-new-column/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
+
+>   [6. Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
