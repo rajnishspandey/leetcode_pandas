@@ -23,3 +23,11 @@ Pre-requisites - jupyter Notebook needs to be installed
 >   [10. Change Data Type](https://leetcode.com/problems/change-data-type/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
 
 >   [11. Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
+
+>   [12. Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
+
+>   [13.  Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
+
+>   [14. Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
+
+>   [15. Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
