@@ -13,3 +13,5 @@ Pre-requisites - jupyter Notebook needs to be installed
 >   [5. Create a New Column](https://leetcode.com/problems/create-a-new-column/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
 
 >   [6. Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
+
+>   [7. Drop Missing Data](https://leetcode.com/problems/drop-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
