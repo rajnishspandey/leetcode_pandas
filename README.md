@@ -1,4 +1,4 @@
-# leetcode_pandas
+# leetcode_pandas - # [Buy me a coffee](https://rajnishspandey.gumroad.com/coffee)
 
 Pre-requisites - jupyter Notebook needs to be installed
 
@@ -31,3 +31,5 @@ Pre-requisites - jupyter Notebook needs to be installed
 >   [14. Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
 
 >   [15. Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)
+
+# [Buy me a coffee](https://rajnishspandey.gumroad.com/coffee)
