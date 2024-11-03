@@ -1,4 +1,4 @@
-# leetcode_pandas - # [Buy me a coffee](https://rajnishspandey.gumroad.com/coffee)
+# [Buy me a coffee](https://rajnishspandey.gumroad.com/coffee)
 
 Pre-requisites - jupyter Notebook needs to be installed
 
